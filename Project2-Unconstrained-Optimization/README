@@ -1,3 +1,3 @@
 Implements an inexact one-dimensional step-size search algorithm based on the Wolfe-Powell criterion.
 Based on non-exact one-dimensional step-size search, from Newton method, quasi-Newton class method (DFP/BFGS), conjugate gradient method, choose an algorithm, and implement it manually.
-This homework needs to construct at least one function (such as the Rosenbrock function), applying the algorithm to solve unconstrained optimization problems under different initial values, and analyze the results of different initial value point pairs influences.
+This homework needs to construct at least one function (such as the Rosenbrock function) and apply the algorithm to solve unconstrained optimization problems under different initial values, and analyze the results of different initial value point.
